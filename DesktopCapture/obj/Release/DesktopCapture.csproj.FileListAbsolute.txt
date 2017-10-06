@@ -1,0 +1,18 @@
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.pdb
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Release\UnityEngine.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CoreCompileInputs.cache
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.pdb
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.dll
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.pdb
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csprojResolveAssemblyReference.cache
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CoreCompileInputs.cache
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.dll
+C:\Users\MsiIN\Documents\Visual Studio 2017\Projects\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.pdb
+D:\Shubham_Data\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.dll
+D:\Shubham_Data\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.pdb
+D:\Shubham_Data\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csprojResolveAssemblyReference.cache
+D:\Shubham_Data\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CoreCompileInputs.cache
+D:\Shubham_Data\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.dll
+D:\Shubham_Data\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.pdb

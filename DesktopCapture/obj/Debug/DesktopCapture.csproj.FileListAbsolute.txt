@@ -1,0 +1,7 @@
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Debug\DesktopCapture.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Debug\DesktopCapture.pdb
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\bin\Debug\UnityEngine.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csprojResolveAssemblyReference.cache
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csproj.CoreCompileInputs.cache
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.dll
+C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.pdb
