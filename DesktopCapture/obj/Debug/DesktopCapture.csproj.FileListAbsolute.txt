@@ -5,3 +5,12 @@ C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCaptu
 C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csproj.CoreCompileInputs.cache
 C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.dll
 C:\Users\MsiIN\source\repos\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.pdb
+D:\Projects\DesktopCapture\DesktopCapture\bin\Debug\DesktopCapture.dll
+D:\Projects\DesktopCapture\DesktopCapture\bin\Debug\DesktopCapture.pdb
+D:\Projects\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csprojAssemblyReference.cache
+D:\Projects\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csproj.CoreCompileInputs.cache
+D:\Projects\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.csproj.CopyComplete
+D:\Projects\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.dll
+D:\Projects\DesktopCapture\DesktopCapture\obj\Debug\DesktopCapture.pdb
+D:\Projects\DesktopCapture\DesktopCapture\bin\Debug\UnityEngine.dll
+D:\Projects\DesktopCapture\DesktopCapture\bin\Debug\UnityEngine.xml
