@@ -2,18 +2,16 @@
 #ifndef STREAMING_H_
 #define STREAMING_H_
 
-// Import STD
 #include <iostream>
 #include <chrono>
 
-// Import LibAV
 extern "C"
 {
 #include "libavformat/avformat.h"
 #include "libavutil/mathematics.h"
 #include "libavutil/time.h"
-
-
+};
+   
 class Streaming
 {
 public:
@@ -45,6 +43,6 @@ protected:
     int frameIndex = 0;
     int64_t startTime = 0;
     bool initialized = false;
-};
+
 };
 #endif

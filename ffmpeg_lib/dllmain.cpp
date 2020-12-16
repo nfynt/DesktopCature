@@ -143,3 +143,13 @@ void save_gray_frame(unsigned char* buf, int wrap, int xsize, int ysize,int fr)
         fwrite(buf + i * wrap, 1, xsize, f);
     fclose(f);
 }
+
+
+
+int TestStream(const char* file, const char* codec)
+{
+    EncodeAndStream es;
+    es.Stream("test.mp4", "mpeg4");
+
+    return 0;
+}

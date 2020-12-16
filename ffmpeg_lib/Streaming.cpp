@@ -79,6 +79,10 @@ int Streaming::setupOutput(const char* _rtspServerAdress)
             printf("Could not find input codec/context for '%s'.\n", avcodec_get_name(in_stream->codecpar->codec_id));
             return -1;
         }
+        if (in_codec->id == AV_CODEC_ID_H264)
+            printf("H264 it is");
+        else
+            printf("%s: %s", in_codec->name, avcodec_get_name(in_codec->id));
 
         AVStream* out_stream = avformat_new_stream(ofmt_ctx, in_codec);
         if (!out_stream)
