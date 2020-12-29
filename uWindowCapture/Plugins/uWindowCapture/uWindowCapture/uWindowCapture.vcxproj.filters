@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{a820eab3-2c2a-4d56-9670-064198e6a1cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\IUnityInterface.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\IUnityGraphics.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\IUnityGraphicsD3D11.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h" />
+    <ClInclude Include="Window.h" />
+    <ClInclude Include="WindowManager.h" />
+    <ClInclude Include="Thread.h" />
+    <ClInclude Include="Util.h" />
+    <ClInclude Include="Buffer.h" />
+    <ClInclude Include="Message.h" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="Unity.h" />
+    <ClInclude Include="CaptureManager.h" />
+    <ClInclude Include="UploadManager.h" />
+    <ClInclude Include="WindowQueue.h" />
+    <ClInclude Include="WindowTexture.h" />
+    <ClInclude Include="IconTexture.h" />
+    <ClInclude Include="Cursor.h" />
+    <ClInclude Include="RtspStreaming.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Debug.cpp" />
+    <ClCompile Include="Window.cpp" />
+    <ClCompile Include="WindowManager.cpp" />
+    <ClCompile Include="Thread.cpp" />
+    <ClCompile Include="Util.cpp" />
+    <ClCompile Include="Message.cpp" />
+    <ClCompile Include="Unity.cpp" />
+    <ClCompile Include="CaptureManager.cpp" />
+    <ClCompile Include="UploadManager.cpp" />
+    <ClCompile Include="WindowQueue.cpp" />
+    <ClCompile Include="WindowTexture.cpp" />
+    <ClCompile Include="IconTexture.cpp" />
+    <ClCompile Include="Cursor.cpp" />
+    <ClCompile Include="RtspStreaming.cpp" />
+  </ItemGroup>
+</Project>
